@@ -1,8 +1,8 @@
 # reproducibleresearch
 ---
 title: "Course Project 1 - Reproducible Research"
-author: "Shengyu Chen"
-date: "March 20, 2016"
+author: "Mohit Rounak"
+date: "March 23, 2023"
 output: html_document
 ---
 
